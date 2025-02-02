@@ -10,9 +10,9 @@
 .box{
     
     padding: 20px;
-    background-color: rgb(76, 205, 252);
+    background-color: #272727;
     border-radius: 10px;
-    box-shadow:  0 0 15px #5ae9ff;
+    box-shadow:  0 0 15px #8e8e8e;
     color: #ededed;
     display: flex;
     align-items: center;
@@ -24,15 +24,15 @@
 }
 .box:hover{
     background-color: #f7f7f7;
-    color: rgb(76, 205, 252);
-    box-shadow: 0 0 10px #9cf2ff;
+    color: #272727;
+    box-shadow: 0 0 10px #a4a4a4;
     scale: 1.1;
     transition: 0.3s 0.2s;
 }
 .box:active{
-    background-color: rgb(76, 205, 252);
+    background-color: #272727;
     color: #ededed;
-    box-shadow: 0 0 10px #9cf2ff;
+    box-shadow: 0 0 10px #626262;
     scale: 1;
     transition: 0.1s;
 }
