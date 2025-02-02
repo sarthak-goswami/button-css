@@ -24,15 +24,15 @@
 }
 .box:hover{
     background-color: #f7f7f7;
-    color: #272727;
+    color: rgb(76, 205, 252);
     box-shadow: 0 0 10px #9cf2ff;
     scale: 1.1;
     transition: 0.3s 0.2s;
 }
 .box:active{
-    background-color: #272727;
+    background-color: rgb(76, 205, 252);
     color: #ededed;
-    box-shadow: 0 0 10px #626262;
+    box-shadow: 0 0 10px #9cf2ff;
     scale: 1;
     transition: 0.1s;
 }
