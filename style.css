@@ -10,9 +10,9 @@
 .box{
     
     padding: 20px;
-    background-color: #272727;
+    background-color: rgb(76, 205, 252);
     border-radius: 10px;
-    box-shadow:  0 0 15px #8e8e8e;
+    box-shadow:  0 0 15px #5ae9ff;
     color: #ededed;
     display: flex;
     align-items: center;
@@ -25,7 +25,7 @@
 .box:hover{
     background-color: #f7f7f7;
     color: #272727;
-    box-shadow: 0 0 10px #a4a4a4;
+    box-shadow: 0 0 10px #9cf2ff;
     scale: 1.1;
     transition: 0.3s 0.2s;
 }
